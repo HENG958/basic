@@ -1,0 +1,3 @@
+/mnt/d/ACM/HW4/Basic-Interpreter-2023-main/build/CMakeFiles/code.dir
+/mnt/d/ACM/HW4/Basic-Interpreter-2023-main/build/CMakeFiles/edit_cache.dir
+/mnt/d/ACM/HW4/Basic-Interpreter-2023-main/build/CMakeFiles/rebuild_cache.dir
