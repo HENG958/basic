@@ -24,7 +24,7 @@ void Program::clear() {
 void Program::addSourceLine(int lineNumber, const std::string &line) {
   if (line_num.find(lineNumber) != line_num.end())
     removeSourceLine(lineNumber);
-  if (line_num.empty()) return;
+  //if (line_num.empty()) return;
   line_num.insert(lineNumber);
   line_text[lineNumber] = line;
   return;
